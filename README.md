@@ -8,6 +8,12 @@
 yarn create react-app cra-boilerplate --template typescript
 ```
 
+## 加入 [React Router](https://reactrouter.com/)
+
+```sh
+yarn add react-router-dom@6
+```
+
 ## 常用指令
 
 ```sh
@@ -17,3 +23,10 @@ yarn start
 # 編譯專案，用於正式環境部署
 yarn build
 ```
+
+## 路由列表
+
+| Path |
+| ---- |
+| /home |
+| /about |
