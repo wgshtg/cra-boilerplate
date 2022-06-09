@@ -34,3 +34,4 @@ yarn build
 ## 範例列表
 
 - [ ] TickingClock, File: /App.tsx, /TickingClock.tsx
+- [ ] ComposingComponent, File: /App.tsx, /ComposingComponent.tsx

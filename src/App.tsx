@@ -3,6 +3,7 @@ import './App.css';
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
 
+import ComposingComponent from './ComposingComponent';
 
 // import tickingClock from './tickingClock';
 
@@ -16,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="about" element={<About />} />
+        <Route path="composingComponent" element={<ComposingComponent />} />
       </Routes>
     </div>
   );
