@@ -5,7 +5,12 @@ import { Link, Route, Routes } from 'react-router-dom';
 
 import logo from './logo.svg';
 
+// import tickingClock from './tickingClock';
+
 function App() {
+  // Ticking clock practice
+  // tickingClock();
+
   return (
     <div className="App">
       <header className="App-header">
