@@ -33,5 +33,6 @@ yarn build
 
 ## 範例列表
 
-- [ ] TickingClock, File: /App.tsx, /TickingClock.tsx
-- [ ] ComposingComponent, File: /App.tsx, /ComposingComponent.tsx
+- [ ] TickingClock, File: src/index.tsx, src/TickingClock.tsx
+- [ ] ComposingComponent, File: src/App.tsx, src/ComposingComponent.tsx
+- [ ] StatefulClock, File: src/index.tsx, src/StatefulClock.tsx
