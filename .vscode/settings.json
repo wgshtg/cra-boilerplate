@@ -1,0 +1,6 @@
+{
+    // Auto remove unused import set false
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": false
+    },
+}
