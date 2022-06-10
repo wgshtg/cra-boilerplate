@@ -1,15 +1,17 @@
-import './index.css';
-
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
-
 import App from './App';
+import './index.css';
 import reportWebVitals from './reportWebVitals';
 // import TickingClock from './TickingClock';
+// import tick from './StatefulClock';
 
-// Ticking clock practice
+// Ticking clock sample
 // TickingClock();
+
+// Stateful clock sample
+// tick();
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
