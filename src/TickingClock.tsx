@@ -5,7 +5,7 @@ const root = ReactDOM.createRoot(
 );
 
 // React element is immutable. You cannot change it's children or attributes.
-function tickingClock() {
+function TickingClock() {
   const element = (
     <div>
       <h1>Hello, world!</h1>
@@ -17,6 +17,6 @@ function tickingClock() {
 
 // Every seconds call root.render to render element.
 // React DOM compares the element and its children to the previous one, only h2 node whose contents have changed gets updated
-setInterval(tickingClock, 1000);
+setInterval(TickingClock, 1000);
 
-export default tickingClock;
+export default TickingClock;
