@@ -5,12 +5,7 @@ import { Link, Route, Routes } from 'react-router-dom';
 
 import ComposingComponent from './ComposingComponent';
 
-// import tickingClock from './tickingClock';
-
 function App() {
-  // Ticking clock practice
-  // tickingClock();
-
   return (
     <div className="App">
       <h1>Welcome to React Router!</h1>
